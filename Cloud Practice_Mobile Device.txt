@@ -1,7 +1,10 @@
+Vinay Tech Cloud Practice
+
 1) Open your mobile / tab, go to play store / any store, search Power BI app, Install It.
 2) Open Power BI App, Choose Power BI Service/ Power BI and Enter the below credentials:
 
 	User name: vinaytech_2805@vinaytechhouse.com
+
 	Password: vinaytech@2024
 
 3) Go to recent section, click on the app created now and browse  the reports.
@@ -11,6 +14,7 @@ use them(Reset, Comment, Pages), finally annotated report share via WhatsApp on 
 
 
 Note: Don't place in the WhatsApp group
+
 3 minutes time...
 
 
